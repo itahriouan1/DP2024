@@ -1,0 +1,15 @@
+{
+    "name": "zakariaitahriouan/adapter",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "itahriouan zakaria",
+            "email": "zakariaitahriouan@gmail.com"
+        }
+    ],
+    "require": {}
+}
